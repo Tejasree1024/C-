@@ -1,0 +1,15 @@
+// area of a triangle
+
+#include<iostream.h> #include <math.h h >
+
+void main()
+{
+
+Int a,b,c,s;
+Cin>>a>>b>>c;
+S = sqrt(s) * (s-a) * (s-b) * (S-C);
+
+cout<<" enter the area of triangle"<<s;
+
+}
+}
